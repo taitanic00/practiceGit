@@ -1,0 +1,18 @@
+* {
+    background-color: white;
+}
+header{
+    margin: 0 auto;
+}
+#majorHeading{
+    text-align: center;
+}
+#checkJS{
+    background-color: lightgray;
+    margin:auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: red;
+}
